@@ -1,0 +1,62 @@
+/* modal containers properties */
+
+/* DO THIS FIRST
+.modal-header{
+  
+} */
+/* end of modal container properties */
+
+.close-btn{
+  float:right;
+}
+.dino-back{
+  width: 220px;
+  height: 220px;
+  margin-right: 20px;
+  border-radius: 50%;
+  float: right;
+  background-color: #84A98C;
+}
+.white-circle{
+  width: 300px;
+  height: 300px;
+  position:absolute;
+  background-color:white;
+  border-radius: 50%;
+}
+
+
+/* NEW MODAL */
+/* .new-modal-component{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+} */
+.new-modal-container{
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  background-color: rgba(0, 0, 0, 0.361);
+}
+.new-modal{
+  position: fixed;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
+  width: 40vw;
+  height: 80vh;
+  padding: 30px;
+  border-radius: 12px;
+  background-color: #F2F2F2;
+  transition: 0.5s;
+  overflow-y: scroll;
+}
+
+.close-icon{
+  width: 1.5rem;
+  height: 1.5rem;
+  float: right;
+  cursor: pointer;
+}

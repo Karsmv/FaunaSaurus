@@ -1,0 +1,457 @@
+[
+    {
+    "diet": "Carnivorous",
+    "name": "Tyrannosaurus Rex",
+    "pronunciation": "tie-RAN-oh-sore-us ",
+    "name-meaning":"'tyrant lizard'",
+    "temporal-range":"Late Cretaceous",
+    "temporal-range-numbers":"68-66 million years ago",
+    "type":"Large Theropod",
+    "found":"Canada, USA",
+    "length":"12.0 m",
+    "weight": "7000kg",
+    "description":{
+      "first-paragraph":"Tyrannosaurus lives up to its reputation as one of the most fearsome animals of all time. Its powerful jaws had 60 teeth, each one up to 20cm (8 inches) long and its bite was around 3 times as powerful than that of a lion. Bite marks found on Triceratops and Edmontosaurus fossil bones show that Tyrannosaurus could crunch through bone. Analysis of fossilised Tyrannosaurus dung show that it contained the bones of its prey.",
+      "second-paragraph":"The Tyrannosaurus skull was over 1.5m (5 feet) long and the cavity that housed the part of the brain responsible for smell was relatively large. Tyrannosaurus would have used its good sense of smell to hunt live prey and locate dead bodies to scavenge. It would have been able to scare off any other scavengers, so it didn't have to share."
+    },
+    "taxonomic-details":{
+      "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Tyrannosaurinae",
+      "named-by":"Osborn (1905)"
+    },
+    "path": "/components/img/carnivores/T-Rex.png"
+
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Velociraptor",
+      "pronunciation":"vel-OSS-ee-rap-tor",
+      "name-meaning":" 'quick plunderer'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":"74-70 million years ago",
+      "type":"Small Theropod",
+      "found":"Mongolia",
+      "length": "1.8m",
+      "weight":7,
+      "description":{
+        "first-paragraph":"As portrayed in the Jurassic Park movies,Velociraptor was recreated at twice its actual size and closely modelled on Deinonychus. Though this was seen as unscientific at the time, soon after the first film was released, a dinosaur of the same type, Utahraptor, was discovered, even larger than the virtual Velociraptors.      Velociraptor is now thought to have had a fine feather-like covering."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Paraves, Eumaniraptora, Dromaeosauridae",
+        "named-by":"Osborn (1924)"
+      }
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Carnotaurus",
+      "pronunciation":"Kar-noh-TORE-us",
+      "name-meaning":"'carnivorous bull'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":" 71-69 million years ago",
+      "type":"Large Theropod",
+      "found":"Argentina",
+      "length":"7.5 to 8 m (24.6 to 26.2 ft)",
+      "weight":"at least 1.35 metric tons",
+      "description":{
+        "first-paragraph":"Carnotaurus was highly specialized and distinctive. It had thick horns above the eyes, a feature unseen in all other carnivorous dinosaurs, and a very deep skull sitting on a muscular neck.",
+        "second-paragraph":"The feeding habits of Carnotaurus remain unclear: some studies suggested the animal was able to hunt down very large prey such as sauropods, while other studies found it preyed mainly on relatively small animals. Its brain cavity suggests an acute sense of smell, while hearing and sight were less well developed. Carnotaurus was probably well adapted for running and was possibly one of the fastest large theropods."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Ceratosauria, Neoceratosauria, Abelisauridae",
+        "named-by":"Bonaparte (1985)"
+      }
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Albertosaurus",
+      "pronunciation":"al-BERT-oh-saw-russ",
+      "name-meaning":"'Alberta lizard'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":"76-74 million years ago",
+      "type":"Large Theropod",
+      "found":"Canada",
+      "length":"up to 8–9 metres (26–30 ft)",
+      "weight":"1.7–2.5 metric tons (1.9–2.8 short tons)",
+      "description":{
+        "first-paragraph":"Albertosaurus shared a similar body appearance with all other tyrannosaurids. Typically for a theropod, Albertosaurus was bipedal and balanced the heavy head and torso with a long tail. However, tyrannosaurid forelimbs were extremely small for their body size and retained only two digits. The hind limbs were long and ended in a four-toed foot on which the first digit, called the hallux, was short and did not reach the ground. The third digit was longer than the rest. Albertosaurus may have been able to reach walking speeds of 14–21 km/hour (8–13 mi/hour).[32] At least for the younger individuals, a high running speed is plausible.",
+        "second-paragraph":"The massive skull of Albertosaurus, which was perched on a short, S-shaped neck, was about 1 metre (3.3 feet) long in the largest adults. Unlike most theropods, Albertosaurus and other tyrannosaurids were heterodont, with teeth of different forms depending on their position in the mouth. The premaxillary teeth at the tip of the upper jaw, four per side, were much smaller than the rest, more closely packed, and D-shaped in cross section."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Tyrannosauroidea, Tyrannosauridae, Albertosaurinae",
+        "named-by":"Lamb (1914)"
+      }
+    
+    }
+    ,
+    {
+      "diet":"Carnivorous",
+      "name":"Spinosaurus",
+      "pronunciation":"SPINE-oh-SORE-us",
+      "name-meaning":"'thorn lizard'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":"95-70 million years ago",
+      "type":"Large Theropod",
+      "found":"Egypt, Morocco",
+      "length":"14 metres (46 ft)",
+      "weight":"7.4 metric tons (8.2 short tons)",
+      "description":{
+        "first-paragraph":"Spinosaurus is the longest known terrestrial carnivore; other large carnivores comparable to Spinosaurus include theropods such as Tyrannosaurus, Giganotosaurus and Carcharodontosaurus. The distinctive neural spines of Spinosaurus, which were long extensions of the vertebrae (or backbones), grew to at least 1.65 meters (5.4 ft) long and were likely to have had skin connecting them, forming a sail-like structure, although some authors have suggested that the spines were covered in fat and formed a hump. Spinosaurus is known to have eaten fish, and most scientists believe that it hunted both terrestrial and aquatic prey. Evidence suggests that it was highly semiaquatic, and lived both on land and in water much like modern crocodilians do.",
+        "second-paragraph":"As a spinosaurid, Spinosaurus would have had a long, muscular neck, curved in a sigmoid, or S-shape. Its shoulders were prominent, and the forelimbs large and stocky, bearing three clawed digits on each hand. The first finger (or 'thumb') would have been the largest. Spinosaurus had long phalanges (finger bones), and only somewhat recurved claws, suggesting that its hands were longer compared to those of other spinosaurids."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Spinosaurinae",
+        "named-by":"Stromer (1915)"
+      }
+    
+    } ,
+    {
+      "diet":"Carnivorous",
+      "name":"Dilophosaurus",
+      "pronunciation":"die-LOAF-oh-sore-us",
+      "name-meaning":"'two-ridged lizard'",
+      "temporal-range":"Early Jurassic",
+      "temporal-range-numbers":"190 million years ago",
+      "type":"Large Theropod",
+      "found":"USA",
+      "length":"7 m (23 ft) in length",
+      "weight":"400 kg (880 lb)",
+      "description":{
+        "first-paragraph":"Dilophosaurus was one of the earliest large predatory dinosaurs, a medium-sized theropod, though small compared to some of the later theropods. It was also the largest known land-animal of North America during the Early Jurassic. Slender and lightly built, its size was comparable to that of a brown bear.  It was slender and lightly built, and the skull was proportionally large, but delicate. ",
+        "second-paragraph":" Dilophosaurus would have been active and bipedal, and may have hunted large animals; it could also have fed on smaller animals and fish. Due to the limited range of movement and shortness of the forelimbs, the mouth may instead have made first contact with prey. The function of the crests is unknown; they were too weak for battle, but may have been used in visual display, such as species recognition and sexual selection."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Dilophosauridae",
+        "named-by":"Welles (1954)"
+      }
+    
+    } ,
+    {
+      "diet":"Carnivorous",
+      "name":"Allosaurus",
+      "pronunciation":"AL-oh-saw-russ",
+      "name-meaning":"'other lizard'",
+      "temporal-range":"Late Jurassic",
+      "temporal-range-numbers":"156-144 million years ago",
+      "type":"Large Theropod",
+      "found":"Portugal, USA",
+      "length":" 8.5 m (28 ft)",
+      "weight":"1.7 metric tons (1.9 short tons)",
+      "description":{
+        "first-paragraph":"Allosaurus was a typical large theropod, having a massive skull on a short neck, a long, slightly sloping tail, and reduced forelimbs.  Potential prey included ornithopods, stegosaurids, and sauropods. Some paleontologists interpret Allosaurus as having had cooperative social behavior, and hunting in packs, while others believe individuals may have been aggressive toward each other, and that congregations of this genus are the result of lone individuals feeding on the same carcasses.",
+        "second-paragraph":"The skull and teeth of Allosaurus were modestly proportioned for a theropod of its size. The skull had a pair of horns above and in front of the eyes. These horns were composed of extensions of the lacrimal bones,[18] and varied in shape and size. There were also lower paired ridges running along the top edges of the nasal bones that led into the horns. "
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Allosauridae",
+        "named-by":"Marsh (1877)"
+      }
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Oviraptor",
+      "pronunciation":"OH-vee-RAP-tor",
+      "name-meaning":"'egg thief'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":"85-75 million years ago",
+      "type":"Small Theropod",
+      "found":"Mongolia",
+      "length":"1.6 m (5.2 ft)",
+      "weight":" 33–40 kg (73–88 lb)",
+      "description":{
+        "first-paragraph":"he genus name refers to the initial thought of egg-stealing habits, and the specific name was intended to reinforce this view indicating a preference over ceratopsian eggs. Despite the fact that numerous specimens have been referred to the genus, Oviraptor is only known from a single partial skeleton regarded as the holotype, as well as a nest of about fifteen eggs and several small fragments from a juvenile.",
+        "second-paragraph":"The skull of Oviraptor was deep and shortened with large fenestrae (openings) compared to other dinosaurs, and measures about 17.9 cm (179 mm) long as preserved. The actual length may actually be longer though, given that the holotype skull lacks several regions such as the premaxilla. The holotype skull lacks a crest in almost its entirety, however, the top surfaces of the fused parietal and frontal bones indicate that it likely had a well-developed crest, supported by the nasal and premaxilla bones (mainly the latter) of the rostrum. "
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Coelurosauria, Tyrannoraptora, Maniraptoriformes, Maniraptora, Oviraptorosauria, Caenagnathoidea, Oviraptoridae, Oviraptorinae",
+        "named-by":"Osborn (1924)"
+      }
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Baryonyx",
+      "pronunciation":"bah-ree-ON-icks",
+      "name-meaning":"'heavy claw'",
+      "temporal-range":"Early Cretaceous",
+      "temporal-range-numbers":"125 million years ago",
+      "type":"Large Theropod",
+      "found":"England, Spain, United Kingdom",
+      "length":"7.5 and 10 metres (25 and 33 feet)",
+      "weight":"1.2-2 metric tons (1.3-2.2 short tons; 1.2-2.0 long tons)",
+      "description":{
+        "first-paragraph":"The generic name, Baryonyx, means 'heavy claw' and alludes to the animal's very large claw on the first finger; the specific name, walkeri, refers to its discoverer, amateur fossil collector William J. Walker. Baryonyx had a large number of finely serrated, conical teeth, with the largest teeth in front. The neck formed an S-shape, and the neural spines of its dorsal vertebrae increased in height from front to back. One elongated neural spine indicates it may have had a hump or ridge along the centre of its back. It had robust forelimbs, with the eponymous first-finger claw measuring about 31 centimetres (12 inches) long.",
+        "second-paragraph": " Baryonyx was the first theropod dinosaur demonstrated to have been piscivorous (fish-eating), as evidenced by fish scales in the stomach region of the holotype specimen. It may also have been an active predator of larger prey and a scavenger, since it also contained bones of a juvenile iguanodontid. The creature would have caught and processed its prey primarily with its forelimbs and large claws. Baryonyx may have had semiaquatic habits, and coexisted with other theropod, ornithopod, and sauropod dinosaurs, as well as pterosaurs, crocodiles, turtles and fishes, in a fluvial environment."
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Spinosauroidea, Spinosauridae, Baryonychinae",
+        "named-by":"Charig and Milner (1987)"
+      }
+    
+    },
+    {
+      "diet":"Carnivorous",
+      "name":"Carcharodontosaurus",
+      "pronunciation":"Kar-KAR-o-don-toe-sore-us",
+      "name-meaning":"'Carcharodon lizard'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":"98-94 million years ago",
+      "type":"Large Theropod",
+      "found":"North Africa",
+      "length":"1.42–1.63 metres (4.7–5.3 ft)",
+      "weight":"6–6.2 metric tons (6.6–6.8 short tons)",
+      "description":{
+        "first-paragraph":"The genus Carcharodontosaurus is named after the shark genus Carcharodon. "
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Saurischia, Theropoda, Neotheropoda, Tetanurae, Avetheropoda, Carnosauria, Allosauroidea, Carcharodontosauridae",
+        "named-by":"Stromer (1931)"
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Ankylosaurus",
+      "pronunciation":"an-KIE-loh-sore-us",
+      "name-meaning":"'stiff lizard'",
+      "temporal-range":"Late Cretaceous",
+      "temporal-range-numbers":" 74-67 million years ago",
+      "type":"Armoured Dinosaur",
+      "found":"Canada, USA",
+      "length":"6 and 8 meters (20 and 26 ft)",
+      "weight":"4.8 and 8 metric tons (5.3 and 8.8 short tons",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"Dinosauria, Ornithischia, Genasauria, Thyreophora, Ankylosauromorpha, Ankylosauria, Ankylosauridae",
+        "named-by":"Brown (1908)"
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Brachiosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Centrosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Diplodocus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Edmontosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Iguanodon",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Parasaurolophus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Stegosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Triceratops",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Pachycephalosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Ouranosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    },
+    {
+      "diet":"Herbivorous",
+      "name":"Therizinosaurus",
+      "pronunciation":"",
+      "name-meaning":"''",
+      "temporal-range":"",
+      "temporal-range-numbers":"",
+      "type":"",
+      "found":"",
+      "length":"",
+      "weight":"",
+      "description":{
+        "first-paragraph":"",
+        "second-paragraph":""
+      },
+      "taxonomic-details":{
+        "taxonomy":"",
+        "named-by":""
+      }
+    }
+]

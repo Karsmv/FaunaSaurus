@@ -1,0 +1,13 @@
+*{
+    margin: 0;
+}
+
+.gallery-container{
+    background-color: aqua;
+    height: auto;
+    padding: 1rem;
+}
+.gallery-item{
+    background-color: blueviolet;
+    margin: .5rem;
+}
